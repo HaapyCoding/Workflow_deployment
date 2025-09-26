@@ -1,3 +1,8 @@
+---
+title: Example Guide
+description: A guide in my new Starlight docs site.
+---
+
 # Level00
 
 - We are going to the root of the account `cd /`
